@@ -1,0 +1,1 @@
+{"koira": "dog", "kissa": "cat", "hiiri": "mouse", "hirvi": "elk"}
